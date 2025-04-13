@@ -14,7 +14,7 @@ def enviar_alerta(ip, puertos):
     mensaje = f"""
 🚨 **Alerta: Escaneo de Puertos Detectado** 🚨
 
-**IP sospechosa:** `{ip}`
+**IP del atacante:** `{ip}`
 **Puertos escaneados:** `{sorted(set(puertos))}`
 **Hora:** {time.strftime('%Y-%m-%d %H:%M:%S')}
 """
