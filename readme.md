@@ -101,7 +101,7 @@ Para obtener el proyecto puedes hacerlo de dos maneras:
     Una vez **descargado** o **clonado** el repositorio, entra a la carpeta del proyecto con el siguiente comando:
     
     ```bash
-    cd Alerta-Discord
+    cd DiscoScan
     
     ```
     A continuación, abre el proyecto en con tu editor de **código favorito**.
