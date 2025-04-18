@@ -62,8 +62,7 @@ Antes de poder lanzar el script de detección de escaneos, es necesario asegurar
 - ###  2.1 Instalar Python 3 (por si no lo tienes)
 
 ```bash
-sudo apt update
-sudo apt install python3 -y
+sudo apt update && sudo apt install python3 -y
 ```
 Para comprobar que se ha instalado correctamente ejecuta el siguiente comando: 
 
