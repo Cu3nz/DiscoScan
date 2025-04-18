@@ -130,7 +130,7 @@ Este error aparece en versiones recientes de **Ubuntu (23.04 o superior)** debid
 
 > ✅  **Soluciones segun tu version de Ubuntu**
 
-- Si usas **Ubuntu 20.04 o inferior**:
+- Si usas **Ubuntu 22.04 o inferior**:
 
 ```
 pip3 install -r requirements.txt
